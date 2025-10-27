@@ -1,0 +1,2 @@
+************* Module cleaned_inventory_system.py
+cleaned_inventory_system.py:1:0: F0001: No module named cleaned_inventory_system.py (fatal)
